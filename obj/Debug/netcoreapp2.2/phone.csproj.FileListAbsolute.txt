@@ -1,0 +1,11 @@
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/bin/Debug/netcoreapp2.2/phone.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/phone/obj/Debug/netcoreapp2.2/phone.pdb
